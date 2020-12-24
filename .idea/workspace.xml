@@ -10,18 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a686553e-adb8-46b9-8da5-18ea21c45347" name="Default Changelist" comment="step two">
-      <change afterPath="$PROJECT_DIR$/src/js/modules/changeModalState.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/modules/checkNumInputs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/modules/forms.js" afterDir="false" />
+    <list default="true" id="a686553e-adb8-46b9-8da5-18ea21c45347" name="Default Changelist" comment="step three">
+      <change afterPath="$PROJECT_DIR$/src/js/modules/timer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/modules/modals.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/modules/modals.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/modules/tabs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/modules/tabs.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +63,7 @@
       <workItem from="1608232222361" duration="4956000" />
       <workItem from="1608295130012" duration="3374000" />
       <workItem from="1608396412895" duration="3213000" />
-      <workItem from="1608844822087" duration="2386000" />
+      <workItem from="1608844822087" duration="4016000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1608232280026</created>
@@ -85,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608235246061</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="step three">
+      <created>1608847452144</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608847452144</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +107,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="step two" />
-    <option name="LAST_COMMIT_MESSAGE" value="step two" />
+    <MESSAGE value="step three" />
+    <option name="LAST_COMMIT_MESSAGE" value="step three" />
   </component>
   <component name="WindowStateProjectService">
     <state x="439" y="349" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608233718986">
@@ -117,9 +119,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="709" y="236" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608402959153" />
-    <state x="521" y="214" key="Vcs.Push.Dialog.v2" timestamp="1608237172130">
+    <state x="521" y="214" key="Vcs.Push.Dialog.v2" timestamp="1608847455283">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="521" y="214" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608237172130" />
+    <state x="521" y="214" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608847455283" />
   </component>
 </project>
