@@ -10,12 +10,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a686553e-adb8-46b9-8da5-18ea21c45347" name="Default Changelist" comment="add timer">
-      <change afterPath="$PROJECT_DIR$/src/js/modules/images.js" afterDir="false" />
+    <list default="true" id="a686553e-adb8-46b9-8da5-18ea21c45347" name="Default Changelist" comment="add imgPopup">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/modules/modals.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/modules/modals.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +66,7 @@
       <workItem from="1608232222361" duration="4956000" />
       <workItem from="1608295130012" duration="3374000" />
       <workItem from="1608396412895" duration="3213000" />
-      <workItem from="1608844822087" duration="4790000" />
+      <workItem from="1608844822087" duration="5812000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1608232280026</created>
@@ -93,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608849022658</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add imgPopup">
+      <created>1608849781690</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608849781690</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +126,8 @@
     <MESSAGE value="step two" />
     <MESSAGE value="step three" />
     <MESSAGE value="add timer" />
-    <option name="LAST_COMMIT_MESSAGE" value="add timer" />
+    <MESSAGE value="add imgPopup" />
+    <option name="LAST_COMMIT_MESSAGE" value="add imgPopup" />
   </component>
   <component name="WindowStateProjectService">
     <state x="439" y="349" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608233718986">
@@ -127,9 +138,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="709" y="236" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608402959153" />
-    <state x="521" y="214" key="Vcs.Push.Dialog.v2" timestamp="1608849024894">
+    <state x="521" y="214" key="Vcs.Push.Dialog.v2" timestamp="1608849783407">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="521" y="214" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608849024894" />
+    <state x="521" y="214" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608849783407" />
   </component>
 </project>
